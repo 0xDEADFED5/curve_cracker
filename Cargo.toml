@@ -1,0 +1,11 @@
+[package]
+name = "curve_cracker"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+sha1 = "0.10.6"
+concat-string = "1.0.1"
+arrayvec = "0.7.4"

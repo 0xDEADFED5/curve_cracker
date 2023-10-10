@@ -4,9 +4,9 @@ This is my meager attempt at the challenge here:  https://words.filippo.io/dispa
 
 Note: requires a wordlist to use for names
 
-# Usage: curve_cracker wordlist logfile(optional)
+## Usage: curve_cracker wordlist logfile(optional)
 
-# Example: curve_cracker names.txt
+## Example: curve_cracker names.txt
 
 Matches are printed to console and saved to output.log by default
 

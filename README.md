@@ -2,6 +2,14 @@
 
 This is my meager attempt on the challenge here:  https://words.filippo.io/dispatches/seeds-bounty/
 
+Note: requires a wordlist to use for names
+
+#Usage: curve_cracker wordlist logfile(optional)
+
+#Example: curve_cracker names.txt
+
+Matches are printed to console and saved to output.log by default
+
 change MAX_THREADS to match your hardware
 
 change MUT_LEN if you modify number of string mutations

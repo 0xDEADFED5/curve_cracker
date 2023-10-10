@@ -11,5 +11,7 @@ Note: requires a wordlist to use for names
 Matches are printed to console and saved to output.log by default
 
 change MAX_THREADS to match your hardware
+
 change MUT_LEN if you modify number of string mutations
+
 change STRING_VARIATIONS when you change the string templates (that's the whole point, right?)
